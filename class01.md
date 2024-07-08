@@ -7,6 +7,8 @@
 - Join Typing.com classroom: https://www.typing.com/join#66817C9CBF5C0 (Class join code: `66817C9CBF5C0`)
     - 1-minute baseline test
 
+- Access LinkedIn Learning - create a preliminary LinkedIn profile.
+
 - Create a GitHub account: https://github.com/
 
 - Virtual Machine setup (demo in-class; download on your own)
@@ -22,9 +24,13 @@
 
 - [Typing](https://typing.com) 
 
-- Complete (at least) parts 1 & 2 of [Learning Git and GitHub](https://www.linkedin.com/learning/learning-git-and-github-23011330?u=2300338) [1h 45m]
+- Complete (at least) parts 1 & 2 of [Learning Git and GitHub](https://www.linkedin.com/learning/learning-git-and-github-23011330?u=2300338) [1h 45m].
 
 
 ## References and Links
+
+- Things to install:
+    - VS Code: https://code.visualstudio.com
+    - GitHub Desktop: https://github.com/apps/desktop
 
 
