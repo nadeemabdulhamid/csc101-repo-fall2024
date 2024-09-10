@@ -12,9 +12,8 @@
 - Create a GitHub account: https://github.com/
 
 - Virtual Machine setup (demo in-class; download on your own)
-    - Mac: UTM: https://mac.getutm.app/ + Ubuntu image: https://mac.getutm.app/gallery/ubuntu-20-04
-    - Windows: https://ubuntu.com/desktop/wsl  (this provides only a text-based interface to Ubuntu)
-    - **OR** Windows: https://www.virtualbox.org/wiki/Downloads (download "Windows host") and https://www.osboxes.org/ubuntu/ (download a virtualbox image)
+    - Mac: UTM: https://mac.getutm.app/ + Ubuntu image: (If your computer is newer than 2020: https://mac.getutm.app/gallery/ubuntu-20-04) OR (If your computer is older than 2020: https://mac.getutm.app/gallery/ubuntu-14-04)
+    - Windows: https://www.virtualbox.org/wiki/Downloads (download "Windows host") and https://www.osboxes.org/ubuntu/ (download the 22.04 Virtualbox image)
 
 - Start using keyboard shortcuts in your OS
     - https://www.system-overload.org/windows-keyboard-shortcuts.pdf

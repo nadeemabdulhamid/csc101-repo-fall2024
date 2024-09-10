@@ -2,7 +2,9 @@
 
 ## In-class
 
-- Create a repo and update it.
+- Fork/clone a repo and update it.
+
+  (Use https://github.com/nadeemabdulhamid/csc101-demo-repo-fall2024 )
 
 - Use [GitHub Desktop](https://github.com/apps/desktop).
 
