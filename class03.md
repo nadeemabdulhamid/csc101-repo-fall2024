@@ -23,10 +23,10 @@
     ```
     45  <--- the number
 
-    74  one correct, wrong place  =>  (27 /\ -14 /\ -24 /\ -17) \/ (14 /\ -17 /\ -27 /\ -24)
-    93  no			      =>  -19 ∧ -29 ∧ -13 ∧ -23
-    55  one correct place	      =>  (15 ∧ -25) v (-15 ∧ 25)
-    17  no			      =>  -11 ∧ -21 ∧ -17 ∧ -27
+    74  one correct, wrong place  =>  (s27 /\ -s14 /\ -s24 /\ -s17) \/ (s14 /\ -s17 /\ -s27 /\ -s24)
+    93  no			      =>  -s19 ∧ -s29 ∧ -s13 ∧ -s23
+    55  one correct place	      =>  (s15 ∧ -s25) v (-s15 ∧ s25)
+    17  no			      =>  -s11 ∧ -s21 ∧ -s17 ∧ -s27
 
     https://www.erpelstolz.at/gateway/formular-uk-zentral.html
 
