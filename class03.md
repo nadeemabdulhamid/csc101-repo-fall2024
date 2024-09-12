@@ -36,7 +36,7 @@
     #3: (S25 ∨ S15) ∧ (¬S15 ∨ ¬S25)
     #4: -s11 ∧ -s21 ∧ -s17 ∧ -s27
 
-    https://www.msoos.org/2013/09/minisat-in-your-browser/
+    https://www.inf.ufpr.br/dpasqualin/d3-dpll/
 
     s14   s27
     -s27 -s14
@@ -75,7 +75,7 @@
 - https://introcs.cs.princeton.edu/java/71boolean/
 
 - https://web.stanford.edu/class/cs103/tools/truth-table-tool/
-- https://www.inf.ufpr.br/dpasqualin/d3-dpll/ (another solver)
+- https://www.msoos.org/2013/09/minisat-in-your-browser/ (another solver)
 
 - https://booleangame.com/
 
