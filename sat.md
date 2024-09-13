@@ -9,6 +9,10 @@ Use an SAT solver to figure out the two-digit code given the following statement
 80   neither of the digits is correct
 ```
 
+- Use https://www.erpelstolz.at/gateway/formular-uk-zentral.html to transform to CNF.
+- Use https://www.inf.ufpr.br/dpasqualin/d3-dpll to solve the constraints.
+
+
 Show all the intermediate steps of your work, like we did in [class](./class03.md).
 
 > Hint:
