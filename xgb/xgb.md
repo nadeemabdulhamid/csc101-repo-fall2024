@@ -8,8 +8,6 @@ For this activity, you will add formulas to an Excel spreadsheet to calculate fi
 
 You are to complete this challenge on your own, but you may ask and share hints on the course Discord channel. You can also use any online resources (including generative AI tools) to work on it. Provide any credits/links on rows near the bottom of your spreadsheet file.
 
-
-
 ## Requirements 
 
 - In this directory, find and download the file with your name: **[Files](./files/)** and open it in Excel to work with.
@@ -28,4 +26,8 @@ You are to complete this challenge on your own, but you may ask and share hints 
 - Add a letter grade threshold mini-table (like in the first screenshot above) (or [this demo spreadsheet](demo-solution-values-only.xlsx)), then add a column that *automatically* fills in a letter grade for each student based on the thresholds. Again, this should be a single formula that is copied down through every row and should work universally. It should automatically adjust the letter grades if the thresholds are edited. 
 
 - Add a column to the letter grade mini-table that counts how many of each letter grade were earned as final grades in the course.
+
+## Note
+
+There is an [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_(media)) in this assignment. If you find it, DM me on Discord. Extra point for the first couple of people that do.
 
