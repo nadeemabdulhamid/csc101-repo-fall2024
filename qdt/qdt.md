@@ -34,20 +34,20 @@ P | -0-0-01000000
 
 |Part|Name|
 |-|----------------|
-A | Will	and Catie
+A | Will W.	and Catie
 B | Anthony	and Owen
 C | Orlando	and Zach
 D |    (already done)
 E | Ethan
-F | Ashlyn
+F | Yola and Chloe
 G |    (already done)
-H | Luke	and Oluwatofunmi
-I | Evan	and Kayla
-J | Caylen	and Paul
+H | Oluwatofunmi and William H.
+I | Kayla
+J | Paul and Brayden
 K | Mereck
 L | Kason	and Cooper
 M | Avery	and Kaitlyn
-N | Daniel	and Gabriel
+N | Daniel
 O | Jake	and Soli
 P | Sacha
 
