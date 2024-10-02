@@ -13,7 +13,7 @@
 |  Sep 11 | [Boolean logic; OS basics](class03.md)        | - [Advent of Cyber](https://tryhackme.com/r/room/adventofcyber2023)  <br> - Typing  |  [Boolean satisfiability](sat.md) [SAT] 
 |  Sep 18 | [Productivity: Excel, Kanban, VS Code](class04.md) | - OS tips&tricks: [[Mac 1](https://www.linkedin.com/learning/macos-quick-tips?u=2300338) + [2](https://www.youtube.com/watch?v=IIBnh74b474)] [[Windows](https://www.linkedin.com/learning/windows-tips-and-tricks?u=2300338)] [2hr] <br>- Typing | [Student grade book worksheet formulas [XGB]](xgb/xgb.md)
 |  Sep 25 | [Quadtrees](./class05.md)       | - [Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-14447912?u=2300338) [3hr] <br>- Advent of Cyber <br>- Typing | [Quadtree decoding [QDT]](qdt/qdt.md)
-|  Oct 2  | File systems; Compression; Data formats; File types | - [Pixel Art Competition](https://cs.berry.edu/pixelcomp-2024/) <br> - Advent of Cyber <br>- Typing | File forensics [EXT]
+|  Oct 2  | [File systems; Compression; Data formats; File types](./class06.md) | - [Pixel Art Competition](https://cs.berry.edu/pixelcomp-2024/) <br> - Advent of Cyber <br>- Typing | File forensics [EXT]
 |  Oct 9  | Markdown; GitHub Pages          | - [Git & GitHub (part 3+4)](https://www.linkedin.com/learning/learning-git-and-github-23011330?u=2300338) [1h 45m] <br>- Typing | File versions [CKS]
 |  Oct 16 | L-systems; Formal grammars      | - Advent of Cyber <br>- Typing | L-system design [LSY]
 |  Oct 23 | Emacs                           | - [Power Searching with Google](https://www.edx.org/learn/google-power-searching/google-power-searching-with-google) <br>- Advent of Cyber <br>- Typing | 
