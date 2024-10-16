@@ -14,9 +14,9 @@
 |  Sep 18 | [Productivity: Excel, Kanban, VS Code](class04.md) | - OS tips&tricks: [[Mac 1](https://www.linkedin.com/learning/macos-quick-tips?u=2300338) + [2](https://www.youtube.com/watch?v=IIBnh74b474)] [[Windows](https://www.linkedin.com/learning/windows-tips-and-tricks?u=2300338)] [2hr] <br>- Typing | [Student grade book worksheet formulas [XGB]](xgb/xgb.md)
 |  Sep 25 | [Quadtrees](./class05.md)       | - [Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-14447912?u=2300338) [3hr] <br>- Advent of Cyber <br>- Typing | [Quadtree decoding [QDT]](qdt/qdt.md)
 |  Oct 2  | [File systems; Compression; Data formats; File types](./class06.md) | - [Pixel Art Competition](https://cs.berry.edu/pixelcomp-2024/) <br> - Advent of Cyber <br>- Typing | [File forensics [EXT]](ext/ext.md)
-|  Oct 9  | Markdown; GitHub Pages          | - [Git & GitHub (part 3+4)](https://www.linkedin.com/learning/learning-git-and-github-23011330?u=2300338) [1h 45m] <br>- Typing | [File forensics [EXT]](ext/ext.md)<br> ~~File versions [CKS]~~ <br> [Pixel Art Competition](https://cs.berry.edu/pixelcomp-2024/)
-|  Oct 16 | L-systems; Formal grammars      | - Advent of Cyber <br>- Typing | L-system design [LSY] 
-|  Oct 23 | ~~Emacs~~ Markdown; GitHub Pages | - [Power Searching with Google](https://www.edx.org/learn/google-power-searching/google-power-searching-with-google) <br>- Advent of Cyber <br>- Typing | 
+|  Oct 9  | [Markdown; GitHub Pages](./class07.md)          | - [Git & GitHub (part 3+4)](https://www.linkedin.com/learning/learning-git-and-github-23011330?u=2300338) [1h 45m] <br>- Typing | [File forensics [EXT]](ext/ext.md)<br> ~~File versions [CKS]~~ <br> [Pixel Art Competition](https://cs.berry.edu/pixelcomp-2024/)
+|  Oct 16 | [Markdown; GitHub Pages](./class07.md)      | - Advent of Cyber <br>- Typing | 
+|  Oct 23 | ~~Emacs~~ L-systems; Formal grammars | - [Power Searching with Google](https://www.edx.org/learn/google-power-searching/google-power-searching-with-google) <br>- Advent of Cyber <br>- Typing |  L-system design [LSY] 
 |  Oct 30 | Ubuntu web server               | - [Power Searching with Google](https://www.edx.org/learn/google-power-searching/google-power-searching-with-google) <br>- Typing | 
 |  Nov 6  | PageRank; Web search and AI     | - Advent of Cyber <br> - Typing | Internet search challenge [ISC]
 |  Nov 13 | Networks                        | - [Networking Basics](https://www.linkedin.com/learning/networking-foundations-networking-basics?u=2300338) [1hr 48m] | 
