@@ -40,6 +40,8 @@
     ```
 
     example: `A=F+F++F+F-F--F-F`
+  
+    - Try at: https://piratefsh.github.io/p5js-art/public/lsystems/
 
 
 
