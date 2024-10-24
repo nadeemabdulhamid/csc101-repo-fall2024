@@ -52,7 +52,7 @@ STRING #3:   ABAABABAABAAB
 STRING #4:   ABABAB
 STRING #5:   BABABA
 STRING #6:   ABBBBA
-STRING #7:   ABBAAAA
+STRING #7:   ABAABAA
 ```
 
 > I will post a "quiz" on Canvas where you can record your answers for Part 1.
