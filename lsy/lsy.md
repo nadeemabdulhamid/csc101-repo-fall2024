@@ -58,11 +58,19 @@ STRING #7:   ABAABAA
 > I will post a "quiz" on Canvas where you can record your answers for Part 1.
 
 <!--
+AAABBB
+AAAAA
+ABAABABAABAAB
+ABABAB
+BABABA
+ABBBBA
+ABAABAA
+
 1/1,2,3,4
 2/1,5
 3/1,2
 4/1,2,3
-5/1,3
+5/3
 6/5
 7/1
 -->
