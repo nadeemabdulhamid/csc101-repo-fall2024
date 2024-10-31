@@ -84,7 +84,7 @@ Design two L-systems that can be rendered using the tool at: https://piratefsh.g
 1. Find an example of an L-system on the internet (you can search for pages [like this one](https://paulbourke.net/fractals/lsys/)) and produce a modified version. You should submit a text file containing:
     - a link to the original source,
     - your complete modified set of rules
-    - a description of what you change, why, and how it changed the rendered image.
+    - a description of what you changed, why, and how it changed the rendered image.
 
 
 2. Design an completely original L-system of your own. You should submit the following in your text file:
