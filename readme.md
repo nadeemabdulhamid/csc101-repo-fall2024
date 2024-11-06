@@ -18,7 +18,7 @@
 |  Oct 16 | [Markdown; GitHub Pages](./class07.md)      | - Advent of Cyber <br>- Typing | 
 |  Oct 23 | ~~Emacs~~ [L-systems; Formal grammars](./class08.md) | - ~~[Power Searching with Google](https://www.edx.org/learn/google-power-searching/google-power-searching-with-google)~~ <br>- Advent of Cyber <br>- Typing |  [Grammars & L-system design [LSY]](lsy/lsy.md)
 |  Oct 30 | Ubuntu web server               | - ~~[Power Searching with Google](https://www.edx.org/learn/google-power-searching/google-power-searching-with-google)~~ <br>- Typing | 
-|  Nov 6  | PageRank; Web search and AI     | - Advent of Cyber <br> - Typing | Internet search challenge [ISC]
+|  Nov 6  | ~~PageRank; Web search and AI~~ [Emacs](./class10.md)   | - Advent of Cyber <br> - Typing | ~~Internet search challenge [ISC]~~
 |  Nov 13 | Networks                        | - [Networking Basics](https://www.linkedin.com/learning/networking-foundations-networking-basics?u=2300338) [1hr 48m] | 
 |  Nov 20 | Docker                          | - [Learning Docker](https://www.linkedin.com/learning/learning-docker-17236240?u=2300338) [2hr] | 
 |  Dec 4  | Conclusion; Portfolio           | 
