@@ -52,17 +52,25 @@ STRING #3:   ABAABABAABAAB
 STRING #4:   ABABAB
 STRING #5:   BABABA
 STRING #6:   ABBBBA
-STRING #7:   ABBAAAA
+STRING #7:   ABAABAA
 ```
 
 > I will post a "quiz" on Canvas where you can record your answers for Part 1.
 
 <!--
+AAABBB
+AAAAA
+ABAABABAABAAB
+ABABAB
+BABABA
+ABBBBA
+ABAABAA
+
 1/1,2,3,4
 2/1,5
 3/1,2
 4/1,2,3
-5/1,3
+5/3
 6/5
 7/1
 -->
@@ -76,7 +84,7 @@ Design two L-systems that can be rendered using the tool at: https://piratefsh.g
 1. Find an example of an L-system on the internet (you can search for pages [like this one](https://paulbourke.net/fractals/lsys/)) and produce a modified version. You should submit a text file containing:
     - a link to the original source,
     - your complete modified set of rules
-    - a description of what you change, why, and how it changed the rendered image.
+    - a description of what you changed, why, and how it changed the rendered image.
 
 
 2. Design an completely original L-system of your own. You should submit the following in your text file:
